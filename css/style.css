@@ -800,16 +800,13 @@ body::after {
 }
 
 body {
-  background: #F9F9F9;
   color: #000;
+  background-color: #fff;
 }
 
-.F-mac {
-  font-family: sans-serif;
-}
 
 .header {
-  background: #E63728;
+  background: blue;
 }
 
 .public-offer {
